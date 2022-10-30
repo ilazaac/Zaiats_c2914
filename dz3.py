@@ -147,3 +147,4 @@ for day in range(365):
     if not nick.alive:
         break
     nick.live(day)
+
